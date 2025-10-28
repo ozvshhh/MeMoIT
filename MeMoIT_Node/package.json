@@ -2,21 +2,25 @@
   "name": "memoit_node",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx tsc",
-    "start": "node .\\src\\index.js",
-    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q index.js\"",
-    "organize-maps": "mkdir dist\\maps 2>nul & move /Y dist\\js\\*.map dist\\maps >nul"
+    "organize-maps": "mkdir dist\\maps 2>nul & move /Y dist\\js\\*.map dist\\maps >nul",
+    "build": "tsc && node scripts/moveMaps.js",
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/js/index.js\"",
+    "start": "node dist/js/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "express": "^5.1.0"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
     "@types/express": "^5.0.4",
     "@types/node": "^24.9.1",
     "concurrently": "^9.2.1",
