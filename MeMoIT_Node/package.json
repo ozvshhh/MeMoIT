@@ -1,8 +1,8 @@
 {
   "name": "memoit_node",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
+  "main": "dist/js/index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "organize-maps": "mkdir dist\\maps 2>nul & move /Y dist\\js\\*.map dist\\maps >nul",
@@ -17,11 +17,13 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "express": "^4.21.2",
+    "express-async-errors": "^3.1.1",
+    "mysql2": "^3.15.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
-    "@types/express": "^5.0.4",
+    "@types/express": "^4.17.25",
     "@types/node": "^24.9.1",
     "concurrently": "^9.2.1",
     "nodemon": "^3.1.10",
