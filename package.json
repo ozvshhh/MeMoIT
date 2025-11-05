@@ -2,10 +2,12 @@
   "dependencies": {
     "morgan": "^1.10.1",
     "mysql2": "^3.15.3",
+    "openai": "^6.7.0",
     "winston": "^3.18.3"
   },
   "devDependencies": {
     "@types/morgan": "^1.9.10",
+    "@types/node": "^24.9.2",
     "@types/winston": "^2.4.4"
   }
 }
