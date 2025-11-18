@@ -6,52 +6,46 @@
 <br><br>
 
 
-# ✨ MeMoIt — AI 쇼츠 요약 기반 지식 아카이브
-
-메모잇은 **릴스, 유튜브 쇼츠, 틱톡 등 짧은 영상에서 얻는 유용한 정보들을 자동으로 텍스트로 정리**해주는 서비스입니다.  
-사용자가 URL만 붙여넣으면 AI가 **요약·키워드 추천·카테고리 분류**까지 모두 처리해  
-개인 맞춤형 지식 아카이브를 만들어줍니다.
-
----
-
 ## ✏️ Onboarding
 
 쇼츠 URL 기반으로 AI 요약 및 분류를 시작하기 위한 초기 화면입니다.
 
-### 🔐 소셜 로그인
+<div style="display: flex; gap: 20px; justify-content: center;">
 
-<img width="300" height="879" alt="image" src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" />
+  <!-- 로그인 -->
+  <div style="text-align: center; width: 30%;">
+    <img src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" width="240"/>
+    <h4>🔐 소셜 로그인</h4>
+    <p style="font-size: 14px;">
+      Google / Kakao 로그인으로 간편하게 시작할 수 있습니다.<br>
+      로그인 후 즉시 URL 분석 화면으로 이동합니다.
+    </p>
+  </div>
 
+  <!-- URL 분석 -->
+  <div style="text-align: center; width: 30%;">
+    <img src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" width="240"/>
+    <h4>🔗 URL 입력 & 분석</h4>
+    <p style="font-size: 14px;">
+      릴스·틱톡·쇼츠 URL을 붙여넣으면<br>
+      AI가 자동으로 콘텐츠를 분석합니다.
+    </p>
+  </div>
 
-- Google / Kakao **소셜 로그인**으로 간편하게 시작할 수 있습니다.
-- 로그인 후 즉시 URL 분석 화면으로 이동합니다.
+  <!-- AI 자동 생성 -->
+  <div style="text-align: center; width: 30%;">
+    <img src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" width="240"/>
+    <h4>📝 AI 자동 생성 결과</h4>
+    <p style="font-size: 14px;">
+      제목·키워드·요약·개인 메모까지<br>
+      하나의 화면에서 저장할 수 있습니다.
+    </p>
+  </div>
+
+</div>
 
 <br>
 
-### 🔗 URL 입력 & 분석
-
-<img width="300" height="879" alt="image" src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" />
-
-
-- 저장하고 싶은 **릴스·틱톡·쇼츠 URL을 붙여넣으면**  
-  AI가 자동으로 콘텐츠를 분석합니다.
-- AI는 **제목 / 핵심 키워드 / 요약**을 한 번에 생성해줍니다.
-
-<br>
-
-### 📝 AI 자동 생성 결과
-
-<img width="300" height="879" alt="image" src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" />
-
-
-- 분석된 영상 정보를 기반으로:
-  - 자동 생성 제목  
-  - AI 추천 키워드  
-  - AI 요약 본문  
-  - 사용자가 직접 작성하는 개인 메모  
-  를 한 화면에서 확인하고 저장할 수 있어요.
-
----
 
 ## 🧭 Navigation (네비바)
 
