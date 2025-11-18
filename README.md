@@ -28,21 +28,16 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/c9490ab7-7693-417b-8ceb-4d9e83580b29" width="200"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/af6cc098-c785-4a68-8d55-5686e0d7ef3e" width="200"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f0a9dc0d-f846-494e-b160-58dbda064401" width="200"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cdd72a0b-0405-47e2-89d9-b45ae81105ec" width="200"/></div> |
 | 분석된 쇼츠 기반으로 **추천 태그 · 썸네일 · 제목**을 표시하며 원하는 메모로 빠르게 이동할 수 있음 | 쇼츠 URL을 붙여넣으면 AI가 **자동 분석 · 요약 · 키워드 추천**을 수행하여 아카이브에 추가 | 나만의 카테고리를 생성하고, 메모를 태그/주제별로 **정리 · 필터링**하여 조회 가능 | 저장해둔 메모를 한눈에 모아보고, AI 요약·개인 메모·원본 링크를 다시 확인 가능 |
 
-
-
-
-
 ---
+## 🔍 Filter
 
-## 🏠 Home (홈)
+모든 영상을 **일 / 라이프스타일 / 지식** 3개 카테고리로 AI가 자동 분류하며,  
+각 카테고리 아래 생성된 **세부 키워드**로 검색 및 필터링 가능.
 
-- 메인 화면에서는 AI가 분석한 영상들의  
-  **추천 태그, 썸네일, 제목**을 한 번에 볼 수 있습니다.
-- 영상(메모)을 클릭하면 아래 정보들을 확인할 수 있습니다:
-  - AI 요약 내용  
-  - 사용자가 정리한 개인 메모  
-  - 원본 링크  
-- 검색/필터 기능을 통해 **카테고리별 메모 탐색**도 가능합니다.
+| 버튼 클릭 | 카테고리 선택 |
+|-----------|---------------|
+| <img width="180" height="87" alt="image" src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" />
+ | <img width="180" height="124" alt="image" src="https://github.com/user-attachments/assets/cc217c7b-d16a-4dea-a1b0-af59730a0375" /> |
 
 ---
 
