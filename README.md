@@ -11,6 +11,11 @@
 사용자가 URL만 붙여넣으면 AI가 **요약·키워드 추천·카테고리 분류**까지 모두 처리해  
 개인 맞춤형 지식 아카이브를 만들어줍니다.
 
+## 🖥️ Wireframe & Service Flow
+
+메모잇 앱의 서비스 흐름과 화면 설계는 아래 Figma 링크에서 확인할 수 있습니다.
+
+[View Wireframe & Service Flow on Figma](https://www.figma.com/make/mBRisDasFuawk2muQDAriK/AI-Memo-App?node-id=0-4&t=GXSR2kO6LEVylQ27-1)
 
 ## ✏️ Onboarding
 
