@@ -20,6 +20,13 @@
 | Google / Kakao로 간편 로그인 | 쇼츠·릴스·틱톡 URL 붙여넣기 | AI 제목·키워드·요약 생성 |
 | 로그인 즉시 분석 화면 이동 | 자동 콘텐츠 분석 진행 | 한 화면에서 저장 가능 |
 
+## ✏️ Onboarding
+
+| 🔐 소셜 로그인 | 🔗 URL 입력 & 분석 | 📝 AI 자동 생성 결과 |
+|---------------|-------------------|----------------------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" width="150"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" width="150"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" width="150"/></div> |
+| Google / Kakao로 간편 로그인 | 쇼츠·릴스·틱톡 URL 붙여넣기 | AI 제목·키워드·요약 생성 |
+| 로그인 즉시 분석 화면 이동 | 자동 콘텐츠 분석 진행 | 한 화면에서 저장 가능 |
 
 
 
