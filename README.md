@@ -1,5 +1,5 @@
 # 서비스 소개
-> 숏폼을 지식으로, AI가 요약·정리하여 당신의 모든 영감을 한 곳에
+> 숏폼을 지식으로, AI가 요약·정리하여 **당신의 모든 영감을 한 곳에**
 
 <img width="420" height="517" alt="image" src="https://github.com/user-attachments/assets/8dcc5b25-cdfa-45f8-84c8-704ec670e9c1" />
 
@@ -36,7 +36,8 @@
 
 | 버튼 클릭 | 카테고리 선택 |
 |-----------|---------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" width="180" height="100"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cc217c7b-d16a-4dea-a1b0-af59730a0375" width="180" height="100"/></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" width="260"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cc217c7b-d16a-4dea-a1b0-af59730a0375" width="260"/></div> |
+
 
 ---
 
