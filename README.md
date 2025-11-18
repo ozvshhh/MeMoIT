@@ -36,7 +36,7 @@
 
 | 버튼 클릭 | 카테고리 선택 |
 |-----------|---------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" width="400"/></div> | <img width="1350" height="493" alt="image" src="https://github.com/user-attachments/assets/84531a52-bae8-47f2-a1aa-7d17fe13a592" />
+| <div align="center"><img src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" width="400"/></div> |<img width="1786" height="406" alt="image" src="https://github.com/user-attachments/assets/ab714baf-9736-4fe3-808f-803afac188b0" />
 
 ---
 
