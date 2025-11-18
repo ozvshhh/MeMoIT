@@ -5,7 +5,6 @@
 
 <br><br>
 
-
 ## ✏️ Onboarding
 
 쇼츠 URL 기반으로 AI 요약 및 분류를 시작하기 위한 초기 화면입니다.
@@ -45,6 +44,7 @@
 </div>
 
 <br>
+
 
 
 ## 🧭 Navigation (네비바)
