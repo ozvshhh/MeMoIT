@@ -7,43 +7,12 @@
 
 ## ✏️ Onboarding
 
-쇼츠 URL 기반으로 AI 요약 및 분류를 시작하기 위한 초기 화면입니다.
+| 🔐 소셜 로그인 | 🔗 URL 입력 & 분석 | 📝 AI 자동 생성 결과 |
+|---------------|-------------------|----------------------|
+| <img src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" width="220"/> | <img src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" width="220"/> | <img src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" width="220"/> |
+| Google / Kakao로 간편 로그인 | 쇼츠·릴스·틱톡 URL 붙여넣기 | AI 제목·키워드·요약 생성 |
+| 로그인 즉시 분석 화면 이동 | 자동 콘텐츠 분석 진행 | 한 화면에서 저장 가능 |
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-
-  <!-- 로그인 -->
-  <div style="text-align: center; width: 30%;">
-    <img src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" width="240"/>
-    <h4>🔐 소셜 로그인</h4>
-    <p style="font-size: 14px;">
-      Google / Kakao 로그인으로 간편하게 시작할 수 있습니다.<br>
-      로그인 후 즉시 URL 분석 화면으로 이동합니다.
-    </p>
-  </div>
-
-  <!-- URL 분석 -->
-  <div style="text-align: center; width: 30%;">
-    <img src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" width="240"/>
-    <h4>🔗 URL 입력 & 분석</h4>
-    <p style="font-size: 14px;">
-      릴스·틱톡·쇼츠 URL을 붙여넣으면<br>
-      AI가 자동으로 콘텐츠를 분석합니다.
-    </p>
-  </div>
-
-  <!-- AI 자동 생성 -->
-  <div style="text-align: center; width: 30%;">
-    <img src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" width="240"/>
-    <h4>📝 AI 자동 생성 결과</h4>
-    <p style="font-size: 14px;">
-      제목·키워드·요약·개인 메모까지<br>
-      하나의 화면에서 저장할 수 있습니다.
-    </p>
-  </div>
-
-</div>
-
-<br>
 
 
 
