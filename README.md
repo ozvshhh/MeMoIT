@@ -1,5 +1,6 @@
 # MemoIT
 <img width="657" height="517" alt="image" src="https://github.com/user-attachments/assets/78230ff9-f03f-4564-a510-04f49e944a7c" />
+
 **숏폼을 지식으로, AI 요약·정리**  
 **당신의 영감을 한 곳에**
 
