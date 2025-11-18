@@ -49,6 +49,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "resolveJsonModule": true,
+    "strictPropertyInitialization": true,
   },
   "include": ["src"]
 }

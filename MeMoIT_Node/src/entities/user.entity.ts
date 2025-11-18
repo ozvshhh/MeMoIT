@@ -1,5 +1,12 @@
-// user.entity.ts
-import { Entity, PrimaryGeneratedColumn, Column, OneToMany, CreateDateColumn, UpdateDateColumn } from "typeorm";
+// src/entities/user.entity.ts
+import {
+  Entity,
+  PrimaryGeneratedColumn,
+  Column,
+  OneToMany,
+  CreateDateColumn,
+  UpdateDateColumn,
+} from "typeorm";
 import { Memo } from "./memo.entity";
 import { Bookmark } from "./bookmark.entity";
 import { Category } from "./category.entity";
@@ -18,13 +25,13 @@ export class User {
   @Column({ unique: true })
   nickname!: string;
 
-  @OneToMany(() => Memo, memo => memo.user)
+  @OneToMany(() => Memo, (memo) => memo.user)
   memos!: Memo[];
 
-  @OneToMany(() => Bookmark, b => b.user)
+  @OneToMany(() => Bookmark, (bookmark) => bookmark.user)
   bookmarks!: Bookmark[];
 
-  @OneToMany(() => Category, category => category.user)
+  @OneToMany(() => Category, (category) => category.user)
   categories!: Category[];
 
   @CreateDateColumn()

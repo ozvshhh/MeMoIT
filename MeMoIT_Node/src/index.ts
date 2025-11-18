@@ -7,7 +7,10 @@ import { AppDataSource } from './data-source';
 import { errorHandler } from './middleware/errorHandler';
 import { requestLogger, consoleLogger } from './middleware/morganLogger';
 import testRouter from "./routes/test/index";
+
 import memoRouter from "./routes/memo.routes";
+import categoryRouter from "./routes/category.routes";
+import userRouter from "./routes/user.routes";
 
 dotenv.config(); // 실행코드 최상단에 위치할 것
 //env 사용하는 방법. <- 민감한 데이터는 이렇게 쓰자

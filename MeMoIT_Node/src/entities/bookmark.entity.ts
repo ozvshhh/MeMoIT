@@ -1,5 +1,10 @@
-// bookmark.entity.ts
-import { Entity, PrimaryGeneratedColumn, ManyToOne, CreateDateColumn } from "typeorm";
+// src/entities/bookmark.entity.ts
+import {
+  Entity,
+  PrimaryGeneratedColumn,
+  ManyToOne,
+  CreateDateColumn,
+} from "typeorm";
 import { User } from "./user.entity";
 import { Memo } from "./memo.entity";
 
@@ -8,10 +13,10 @@ export class Bookmark {
   @PrimaryGeneratedColumn("uuid")
   id!: string;
 
-  @ManyToOne(() => User, user => user.bookmarks, { onDelete: "CASCADE" })
+  @ManyToOne(() => User, (user) => user.bookmarks, { onDelete: "CASCADE" })
   user!: User;
 
-  @ManyToOne(() => Memo, memo => memo.bookmarks, { onDelete: "CASCADE" })
+  @ManyToOne(() => Memo, (memo) => memo.bookmarks, { onDelete: "CASCADE" })
   memo!: Memo;
 
   @CreateDateColumn()

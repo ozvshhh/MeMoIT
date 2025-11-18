@@ -1,5 +1,15 @@
-// memo.entity.ts
-import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, CreateDateColumn, UpdateDateColumn, OneToMany } from "typeorm";
+// src/entities/memo.entity.ts
+import {
+  Entity,
+  PrimaryGeneratedColumn,
+  Column,
+  ManyToOne,
+  CreateDateColumn,
+  UpdateDateColumn,
+  OneToMany,
+  ManyToMany,
+  JoinTable,
+} from "typeorm";
 import { User } from "./user.entity";
 import { Category } from "./category.entity";
 import { Bookmark } from "./bookmark.entity";
@@ -15,16 +25,29 @@ export class Memo {
   @Column("text")
   content!: string;
 
-  @ManyToOne(() => User, user => user.memos, { onDelete: "CASCADE" })
+  @ManyToOne(() => User, (user) => user.memos, { onDelete: "CASCADE" })
   user!: User;
 
-  @ManyToOne(() => Category, { nullable: true, onDelete: "SET NULL" })
-  category!: Category | null;
+  // 대표 상위 카테고리 (1개)
+  @ManyToOne(() => Category, (category) => category.memosAsParent, {
+    nullable: true,
+    onDelete: "SET NULL",
+  })
+  parentCategory!: Category | null;
+
+  // 여러 카테고리에 태깅 (N:N)
+  @ManyToMany(() => Category, (category) => category.memos, {
+    cascade: true,
+  })
+  @JoinTable({
+    name: "memo_categories", // 조인 테이블 이름
+  })
+  categories!: Category[];
 
   @Column({ default: false })
   is_bookmarked!: boolean;
 
-  @OneToMany(() => Bookmark, b => b.memo)
+  @OneToMany(() => Bookmark, (bookmark) => bookmark.memo)
   bookmarks!: Bookmark[];
 
   @CreateDateColumn()
