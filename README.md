@@ -1,8 +1,7 @@
 # MeMoIt
-> 숏폼을 지식으로, AI 요약·정리  
-> 당신의 영감을 한 곳에
+> 숏폼을 지식으로, AI가 요약·정리하여 당신의 모든 영감을 한 곳에
 
-<img width="800" height="400" alt="MeMoIt Logo" src="https://github.com/user-attachments/assets/fa0e99db-2e5d-45d4-bb77-7ac054299edb" />
+<img width="657" height="517" alt="image" src="https://github.com/user-attachments/assets/8dcc5b25-cdfa-45f8-84c8-704ec670e9c1" />
 
 <br><br>
 
