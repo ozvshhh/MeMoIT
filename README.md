@@ -5,11 +5,12 @@
 
 <br><br>
 
-# MeMoIt — AI 쇼츠 요약 기반 지식 아카이브
+## MemoIT — AI 쇼츠 요약 기반 지식 아카이브
 
 메모잇은 **릴스, 유튜브 쇼츠, 틱톡 등 짧은 영상에서 얻는 유용한 정보들을 자동으로 텍스트로 정리**해주는 서비스입니다.  
 사용자가 URL만 붙여넣으면 AI가 **요약·키워드 추천·카테고리 분류**까지 모두 처리해  
 개인 맞춤형 지식 아카이브를 만들어줍니다.
+
 
 ## ✏️ Onboarding
 
@@ -26,7 +27,11 @@
 
 | **🏠 홈(Home)**                                                             | **➕ 추가(Add)**                                                              | **📂 카테고리(Category)**                                                      | **💾 저장(Save)**                                                            |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="/mnt/data/be5e972b-e739-4cee-9e5b-a53a7ca1f763.png" width="230"> | <img src="/mnt/data/60eb3938-5137-4e3d-bdf4-421fbff71514.png" width="230"> | <img src="/mnt/data/f0cae22d-37ab-4933-8a33-4747f4561242.png" width="230"> | <img src="/mnt/data/be5e972b-e739-4cee-9e5b-a53a7ca1f763.png" width="230"> |
+|<img width="230" height="879" alt="image" src="https://github.com/user-attachments/assets/c9490ab7-7693-417b-8ceb-4d9e83580b29" />
+ | <img width="230" height="786" alt="image" src="https://github.com/user-attachments/assets/af6cc098-c785-4a68-8d55-5686e0d7ef3e" />
+ | <img width="230" height="782" alt="image" src="https://github.com/user-attachments/assets/f0a9dc0d-f846-494e-b160-58dbda064401" />
+ | <img width="230" height="753" alt="image" src="https://github.com/user-attachments/assets/cdd72a0b-0405-47e2-89d9-b45ae81105ec" />
+ |
 | 분석된 쇼츠 기반으로 **추천 태그 · 썸네일 · 제목**을 표시하며 원하는 메모로 빠르게 이동할 수 있음                | 쇼츠 URL을 붙여넣으면 AI가 **자동 분석 · 요약 · 키워드 추천**을 수행하여 아카이브에 추가                   | 나만의 카테고리를 생성하고, 메모를 태그/주제별로 **정리 · 필터링**하여 조회 가능                           | 저장해둔 메모를 한눈에 모아보고, AI 요약·개인 메모·원본 링크를 다시 확인 가능                             |
 
 
