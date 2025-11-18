@@ -1,7 +1,7 @@
 # 서비스 소개
 > 숏폼을 지식으로, AI가 요약·정리하여 당신의 모든 영감을 한 곳에
 
-<img width="657" height="517" alt="image" src="https://github.com/user-attachments/assets/8dcc5b25-cdfa-45f8-84c8-704ec670e9c1" />
+<img width="420" height="517" alt="image" src="https://github.com/user-attachments/assets/8dcc5b25-cdfa-45f8-84c8-704ec670e9c1" />
 
 <br><br>
 
@@ -20,7 +20,7 @@
 
 ### 🔐 소셜 로그인
 
-<img width="545" height="879" alt="image" src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" />
+<img width="300" height="879" alt="image" src="https://github.com/user-attachments/assets/ff5c286d-1b29-4be6-948d-c4f9d9d2f201" />
 
 
 - Google / Kakao **소셜 로그인**으로 간편하게 시작할 수 있습니다.
@@ -30,7 +30,7 @@
 
 ### 🔗 URL 입력 & 분석
 
-<img width="540" height="879" alt="image" src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" />
+<img width="300" height="879" alt="image" src="https://github.com/user-attachments/assets/7e214751-73a3-450b-9fde-61b9fe03b44a" />
 
 
 - 저장하고 싶은 **릴스·틱톡·쇼츠 URL을 붙여넣으면**  
@@ -41,7 +41,7 @@
 
 ### 📝 AI 자동 생성 결과
 
-<img width="551" height="879" alt="image" src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" />
+<img width="300" height="879" alt="image" src="https://github.com/user-attachments/assets/46fcc7f6-7651-4cd1-90c2-00104e3c28bd" />
 
 
 - 분석된 영상 정보를 기반으로:
