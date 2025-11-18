@@ -39,6 +39,16 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" width="260"/></div> | <img width="1320" height="398" alt="image" src="https://github.com/user-attachments/assets/f22456ac-ffa1-4007-8183-ae5ff7fecd57" />
  |
 
+ ## 🔍 Filter
+
+모든 영상을 **일 / 라이프스타일 / 지식** 3개 카테고리로 AI가 자동 분류하며,  
+각 카테고리 아래 생성된 **세부 키워드**로 검색 및 필터링 가능.
+
+| 버튼 클릭 | 카테고리 선택 |
+|-----------|---------------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/0f886bb0-8f73-4f10-8f50-e1e218c11b45" width="260"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f22456ac-ffa1-4007-8183-ae5ff7fecd57" width="260"/></div> |
+
+
 
 ---
 
