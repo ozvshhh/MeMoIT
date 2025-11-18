@@ -21,38 +21,15 @@
 | 로그인 즉시 분석 화면 이동 | 자동 콘텐츠 분석 진행 | 한 화면에서 저장 가능 |
 
 
-## 🧭 Navigation (네비바)
+## 📃 MainPages
 
 | **🏠 홈(Home)** | **➕ 추가(Add)** | **📂 카테고리(Category)** | **💾 저장(Save)** |
 |----------------|----------------|---------------------------|-------------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/c9490ab7-7693-417b-8ceb-4d9e83580b29" width="170"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/af6cc098-c785-4a68-8d55-5686e0d7ef3e" width="170"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f0a9dc0d-f846-494e-b160-58dbda064401" width="170"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cdd72a0b-0405-47e2-89d9-b45ae81105ec" width="170"/></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/c9490ab7-7693-417b-8ceb-4d9e83580b29" width="200"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/af6cc098-c785-4a68-8d55-5686e0d7ef3e" width="200"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/f0a9dc0d-f846-494e-b160-58dbda064401" width="200"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/cdd72a0b-0405-47e2-89d9-b45ae81105ec" width="200"/></div> |
 | 분석된 쇼츠 기반으로 **추천 태그 · 썸네일 · 제목**을 표시하며 원하는 메모로 빠르게 이동할 수 있음 | 쇼츠 URL을 붙여넣으면 AI가 **자동 분석 · 요약 · 키워드 추천**을 수행하여 아카이브에 추가 | 나만의 카테고리를 생성하고, 메모를 태그/주제별로 **정리 · 필터링**하여 조회 가능 | 저장해둔 메모를 한눈에 모아보고, AI 요약·개인 메모·원본 링크를 다시 확인 가능 |
 
 
-## 🧭 Navigation (네비바)
 
-| **🏠 홈(Home)** | **➕ 추가(Add)** | **📂 카테고리(Category)** | **💾 저장(Save)** |
-|-----------------|------------------|----------------------------|--------------------|
-| 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c9490ab7-7693-417b-8ceb-4d9e83580b29" width="260"/><br/>
-  <img width="260" height="124" alt="image" src="https://github.com/user-attachments/assets/5125b627-6890-4299-bcdb-0d97b5adaffb" />
-
-</div>
-|
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/af6cc098-c785-4a68-8d55-5686e0d7ef3e" width="260"/>
-</div>
-|
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f0a9dc0d-f846-494e-b160-58dbda064401" width="260"/>
-</div>
-|
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cdd72a0b-0405-47e2-89d9-b45ae81105ec" width="260"/>
-</div>
-|
-| 분석된 쇼츠 기반으로 **추천 태그 · 썸네일 · 제목**을 표시하며 원하는 메모로 빠르게 이동할 수 있음 | 쇼츠 URL 붙여넣으면 **AI 자동 분석·요약·키워드 추천**으로 아카이브 추가 | 나만의 카테고리를 만들고 메모를 태그·주제별로 **정리·필터링** 가능 | 저장한 메모를 모아보고, AI 요약·개인 메모·원본 링크를 다시 확인 가능 |
 
 
 ---
