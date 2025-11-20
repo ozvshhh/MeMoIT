@@ -1,5 +1,6 @@
 # 서비스 소개
 > 흘러가는 쇼츠를 다시 ‘나의 지식’으로 바꿔주는 AI 기반 메모 플랫폼
+
 > **당신의 모든 영감을 한 곳에**
 
 <img width="420" height="517" alt="image" src="https://github.com/user-attachments/assets/8dcc5b25-cdfa-45f8-84c8-704ec670e9c1" />
